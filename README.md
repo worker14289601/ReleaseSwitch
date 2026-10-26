@@ -4,6 +4,8 @@
 
 **[Скачать ReleaseSwitch.dmg](https://github.com/worker14289601/ReleaseSwitch/releases/latest/download/ReleaseSwitch.dmg)** · [Все версии](https://github.com/worker14289601/ReleaseSwitch/releases)
 
+<img src="docs/screenshots/releaseswitch.jpg" alt="Главное окно ReleaseSwitch" width="640">
+
 ## Требования
 
 - MacBook с Apple Silicon (arm64).
